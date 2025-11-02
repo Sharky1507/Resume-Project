@@ -6,10 +6,6 @@ An intelligent, open-source resume builder powered by AI that helps create and t
 
 ![Dashboard Screenshot](public/images/ss1.webp)
 
-## ✨ Live Demo
-
-Check out the live demo at [resumelm.com](https://resumelm.com)
-
 ## 🌟 Key Features
 
 ### Resume Management
@@ -83,7 +79,7 @@ Check out the live demo at [resumelm.com](https://resumelm.com)
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/resumelm.git
+git clone https://github.com/Sharky1507/resumelm.git
 ```
 
 2. Install dependencies:
@@ -134,25 +130,5 @@ Open [http://localhost:3000](http://localhost:3000) to view the application.
 - 🔄 Advanced PDF customization
 - 🔄 Job application tracking
 - 🔄 Analytics dashboard
-
-## 📝 Contributing
-
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
-
-## 📄 License
-
-[GNU Affero General Public License v3 (AGPL-3.0)](LICENSE)
-
-This project is licensed under the GNU AGPL v3 license. This means:
-- ✅ You can view, use, and modify the code
-- ✅ You can distribute the code
-- ✅ You must keep the source code open source
-- ✅ Any modifications must also be under AGPL-3.0
-- ❌ You cannot use this code in closed-source commercial applications
-- ❌ You cannot use this code to provide a similar service without making your code open source
-
-For more details, see the [full license text](LICENSE).
-
----
 
 Built with ❤️ using [Next.js](https://nextjs.org/)
