@@ -3,7 +3,7 @@
 An intelligent, open-source resume builder powered by AI that helps create and tailor resumes for specific job applications. Built with Next.js 15, React 19, TypeScript, and Shadcn UI.
 
 
-
+Video Demo: https://drive.google.com/drive/u/0/folders/1qDpd6Du4v1sxY02wpbyTmSGVM4Mg3x8Z
 ## 🌟 Key Features
 
 ### Resume Management
